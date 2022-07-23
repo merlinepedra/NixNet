@@ -1,0 +1,19 @@
+{
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "organizationType" : "Informal collective",
+    "name" : "NixNet",
+    "tagLine" : "Freedom served with a slice of liberty",
+    "homeUrl" : "https://nixnet.services",
+    "logo" : "https://nixnet.services/logo.png",
+    "description": "My goal is to make the internet a safer and more private place by running libre software services and making them publicly available to anyone completely free of charge.",
+    "communicationLanguages": ["en"],
+    "contactUrl": "https://nixnet.services/contact",
+    "privacyPolicyUrl" : "https://nixnet.services/privacy/",
+    "termsOfServiceUrl" : "-",
+    "isServiceProvider" : true,
+    "foundingDate": "2018",
+    "version": "0.0.1",
+    "dateCreated": "2018-12-28T18:29:54Z",
+    "dateModified": "2019-11-24T01:14Z"
+}

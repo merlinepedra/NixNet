@@ -1,0 +1,21 @@
+    {
+    "name": "Presentator",
+      "description": "Presentator is an open source application for collaborative design that is also completely free to use. It's a wonderful alternative to proprietary solutions such as Invision!",
+      "button_text": "Design!",
+      "link": "https://design.nixnet.xyz",
+      "tor":"http://design.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/"
+    },
+    {
+    "name": "Mattermost",
+      "description": "Mattermost is a FLOSS application for real-time chat. Use this for communicating with other users, joining a few different communities, and getting support for NixNet services.",
+      "button_text": "Chat!",
+      "link":"/mattermost/",
+      "tor":"http://l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/mattermost/"
+    },
+    {
+    "name": "Firefly III",
+      "description": "Firefly III is an open source personal finance manager. It can help you keep track of expenses, income, budgets, supports credit cards, checking/savings accounts, and everything in between.",
+      "button_text": "Budget!",
+      "link": "https://firefly.nixnet.xyz/",
+      "tor":"http://firefly.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion/"
+    },

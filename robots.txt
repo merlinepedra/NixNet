@@ -1,0 +1,12 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+User-agent: *
+Disallow: /search
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: {{ site.url }}/sitemap.xml
